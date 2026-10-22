@@ -1,0 +1,9 @@
+# Text file normalization
+*.ico binary
+app/*.tsx linguist-detectable
+*.woff binary
+*.ts linguist-detectable
+
+*.woff2 binary
+
+public/index.html linguist-vendored
